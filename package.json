@@ -123,8 +123,9 @@
       "category": "Utility",
       "description": "office journal",
       "packageCategory": "Utility",
+      "icon":"extraResources/electronlogo.png",
       "target": [
-        "AppImage"
+        "deb"
       ]
     }
   }
